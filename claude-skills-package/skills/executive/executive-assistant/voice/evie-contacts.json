@@ -1,0 +1,43 @@
+{
+  "owner": {
+    "name": "{YOUR_NAME}",
+    "full_name": "John {YOUR_NAME}",
+    "email": "{YOUR_EMAIL}",
+    "birthday": null
+  },
+  "family": [
+    {
+      "name": "Jacob",
+      "full_name": "Jacob Bailes",
+      "relationship": "son",
+      "birthday": "02-15",
+      "interests": [],
+      "notes": "Research interests for gift ideas"
+    }
+  ],
+  "associates": [],
+  "events": [
+    {
+      "name": "Jacob's Birthday",
+      "date": "02-15",
+      "recurring": true,
+      "type": "birthday",
+      "person": "Jacob",
+      "reminder_days": [30, 14, 7, 3, 1],
+      "suggestions": {
+        "gifts": true,
+        "dinner": true,
+        "ecards": true,
+        "social_post": true
+      }
+    }
+  ],
+  "preferences": {
+    "default_reminder_days": [14, 7, 1],
+    "auto_research": true,
+    "suggest_gifts": true,
+    "suggest_restaurants": true,
+    "suggest_ecards": true,
+    "suggest_social_posts": true
+  }
+}

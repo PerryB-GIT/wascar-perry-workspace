@@ -1,0 +1,6 @@
+{
+  "name": "webapp-security",
+  "description": "Web application security testing. OWASP Top 10, API security, authentication bypass, injection attacks. Requires authorization.",
+  "version": "1.0.0",
+  "triggers": ["web security", "webapp pentest", "owasp", "api security", "xss", "sqli", "injection"]
+}

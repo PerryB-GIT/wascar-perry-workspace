@@ -1,0 +1,6 @@
+{
+  "name": "project-management-pmp",
+  "description": "PMP-certified project management. PMBOK processes, WBS, Gantt charts, earned value, schedule management, cost management, quality management.",
+  "version": "1.0.0",
+  "triggers": ["PMP", "PMBOK", "project plan", "WBS", "Gantt", "earned value", "project schedule", "project charter"]
+}

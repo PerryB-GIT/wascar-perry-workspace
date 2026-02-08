@@ -1,0 +1,6 @@
+{
+  "name": "pm-agent",
+  "description": "Master Project and Product Manager toolkit. PMP methodologies, Agile/Scrum, roadmaps, stakeholder management, risk management. Full PM lifecycle.",
+  "version": "1.0.0",
+  "triggers": ["project management", "product management", "PM", "PMP", "project plan", "roadmap", "sprint", "agile"]
+}

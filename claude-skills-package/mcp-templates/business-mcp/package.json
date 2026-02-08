@@ -1,0 +1,19 @@
+{
+  "name": "business-mcp",
+  "version": "1.0.0",
+  "description": "Business operations MCP server template",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": ["mcp", "business", "claude"],
+  "author": "Wascar Deleon",
+  "license": "MIT",
+  "dependencies": {
+    "@anthropic-ai/mcp-server-sdk": "^1.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.0"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "name": "stakeholder-management",
+  "description": "Stakeholder communication and management. RACI matrices, status reports, executive updates, conflict resolution, change management.",
+  "version": "1.0.0",
+  "triggers": ["stakeholder", "RACI", "status report", "executive update", "change management", "communication plan"]
+}

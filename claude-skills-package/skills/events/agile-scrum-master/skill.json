@@ -1,0 +1,6 @@
+{
+  "name": "agile-scrum-master",
+  "description": "Agile and Scrum mastery. Sprint planning, backlog management, retrospectives, velocity, burndown charts, SAFe, Kanban.",
+  "version": "1.0.0",
+  "triggers": ["agile", "scrum", "sprint", "backlog", "retrospective", "standup", "velocity", "kanban", "SAFe"]
+}
