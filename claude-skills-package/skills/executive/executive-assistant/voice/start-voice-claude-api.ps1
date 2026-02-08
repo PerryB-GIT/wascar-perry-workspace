@@ -23,6 +23,6 @@ Write-Host "Starting..." -ForegroundColor Green
 Write-Host ""
 
 # Set API key environment variable
-$env:ANTHROPIC_API_KEY = "***REMOVED***"
+$env:ANTHROPIC_API_KEY = "YOUR_API_KEY_HERE"
 
 python "$HOME/.claude/skills/executive-assistant/voice/voice-to-claude.py"

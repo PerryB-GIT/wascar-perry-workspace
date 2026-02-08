@@ -37,7 +37,7 @@ SCRIPT_DIR = Path(__file__).parent
 CONVERSATION_FILE = Path.home() / ".voice-claude-history.json"
 
 # API Configuration
-API_KEY = os.getenv("ANTHROPIC_API_KEY", "***REMOVED***")
+API_KEY = os.getenv("ANTHROPIC_API_KEY", "YOUR_API_KEY_HERE")
 DEFAULT_MODEL = "claude-sonnet-4-5-20250929"
 DEFAULT_MIC_INDEX = 18
 
